@@ -1,4 +1,4 @@
-#### Projeto Claculadora IMC
+#### Projeto Calculadora IMC
 
 ### Desafios interagir com o usuário, mostrando a mensagem que todos os campos devem ser preenchidos. 
 ##### Como no video abaixo👇
